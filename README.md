@@ -1,8 +1,8 @@
 # pycounts
 
-Calculate word counts in a text file!
+[![codecov](https://codecov.io/github/mdkbmi/pycounts_dki/graph/badge.svg?token=0EOV6WY2Z9)](https://codecov.io/github/mdkbmi/pycounts_dki)
 
-TEST EDIT
+Calculate word counts in a text file!
 
 ## Installation
 
